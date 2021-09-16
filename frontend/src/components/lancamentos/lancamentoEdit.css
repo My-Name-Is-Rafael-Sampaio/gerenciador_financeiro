@@ -1,0 +1,25 @@
+.alert{
+    text-align: center;
+    border-bottom: 1px solid #c1c1c1;
+}
+.alert .spanDanger{
+    background-color: #f8d7da;
+    color: #842029;
+    border: 1px solid #f5c2c7;
+    border-radius: 4px;
+}
+.alert .spanSuccess{
+    background-color: #d1e7dd;
+    color: #0f5132;
+    border: 1px solid #badccc;
+    border-radius: 4px;
+}
+
+.conteudoTitulo{
+    display: flex;
+    justify-content: space-between;
+}
+.conteudoTitulo h1{
+    font-size: 25px;
+}
+
